@@ -2,9 +2,6 @@ import React from "react";
 import PropTypes from 'prop-types';
 
 const FeedbackOptions = ({ options, onLeaveFeedback }) => {
-  //   const onButtonClick = evt => {
-  //   onLeaveFeedback(evt.target.dataset.name);
-  // };
     return (
         <div style={{
                 display: 'flex',
